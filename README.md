@@ -1,4 +1,4 @@
-Invariant:
+
 This system certifies continuous human-origin creative process
 tied to a persistent cryptographic identity.
 
