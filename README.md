@@ -1,2 +1,7 @@
-# Human-origin
-Verify authentic human made content, increase trust between creators and viewers.
+Invariant:
+This system certifies continuous human-origin creative process
+tied to a persistent cryptographic identity.
+
+No recovery.
+No accounts.
+No output analysis.
